@@ -1,0 +1,9 @@
+/* styles/globals.css */
+
+/* Import dari Tailwind CSS */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Aturan CSS tambahan */
+/* Anda dapat menambahkan aturan CSS global tambahan di sini */
